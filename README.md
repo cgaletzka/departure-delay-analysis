@@ -14,7 +14,8 @@ The database is made up of four relational tables:
 
 ## Results
 
-<img width="957" height="880" alt="2025 PRE-DEPARTURE DELAY ANALYSIS" src="https://github.com/user-attachments/assets/cd014eaa-348b-4215-b83c-0fdd93f95b15" />
+
+<img width="971" height="895" alt="2025 PRE-DEPARTURE DELAY ANALYSIS" src="https://github.com/user-attachments/assets/d0c7d0c4-e7d2-41cf-ad19-67e13c034954" />
 
 - Link to the public viz: https://public.tableau.com/views/2025PRE-DEPARTUREDELAYANALYSIS/2025PRE-DEPARTUREDELAYANALYSIS?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
