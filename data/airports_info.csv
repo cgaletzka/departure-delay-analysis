@@ -1,0 +1,87 @@
+airport,airport_name,runways
+ELLX,Luxembourg,1
+LIMF,Torino Caselle,1
+LIRN,Naples,1
+LPPT,Lisbon,2
+LFMN,Nice-Côte d’Azur,2
+GMMN,Mohammed V International,2
+LIMC,Milan - Malpensa,2
+LEPA,Palma de Mallorca,2
+LIME,Bergamo,2
+LROP,Bucharest - Otopeni,2
+EHAM,Amsterdam - Schiphol,6
+LFPG,Paris - Charles-de-Gaulle,4
+EGBB,Birmingham,1
+EGCC,Manchester,2
+EBBR,Brussels,3
+LGAV,Athens,2
+EDDF,Frankfurt,4
+LHBP,Budapest - Ferihegy,2
+LFML,Marseille-Provence,2
+LEIB,Ibiza,1
+LICC,Catania,1
+LPPR,Porto,1
+LMML,Malta,2
+LEAL,Alicante,1
+EDDN,Nuremberg,1
+EDDK,Cologne-Bonn,3
+GCTS,Tenerife Sur - Reina Sofia,1
+LEMG,Málaga,2
+LFLL,Lyon-Saint-Exupéry,2
+EGPH,Edinburgh,1
+LSZH,Zürich,3
+EPWA,Warszawa - Chopina,2
+LEBL,Barcelona,3
+EGKK,London - Gatwick,2
+GMMX,Menara,1
+LEMD,Madrid - Barajas,4
+LFPO,Paris - Orly,3
+LIPZ,Venice,2
+GCRR,Lanzarote,1
+LEVC,Valencia,1
+EDDB,Berlin - Brandenburg,2
+EDDB,Berlin - Brandenburg,2
+LSGG,Geneva,1
+EGSS,London - Stansted,1
+EGGD,Bristol,1
+EDDV,Hanover,3
+LKPR,Prague,2
+EDDH,Hamburg,2
+LIRF,Rome - Fiumicino,3
+LEZL,Sevilla,1
+LBSF,Sofia,1
+LPFR,Faro,1
+GCFV,Fuerteventura,1
+EDDL,Dusseldorf,2
+GCLP,Gran Canaria,2
+BIKF,Keflavik,2
+LTFM,Istanbul,5
+LFBO,Toulouse-Blagnac,2
+EDDS,Stuttgart,1
+EGGW,London - Luton,1
+LIPE,Bologna,1
+LFSB,Bâle-Mulhouse,2
+LOWW,Vienna,2
+EDDM,Munich,2
+LJLJ,Ljubljana,1
+LZIB,Bratislava,2
+EGLL,London - Heathrow,2
+EGNT,Newcastle,1
+ESGG,Göteborg,1
+LDZA,Zagreb,1
+LEBB,Bilbao,2
+EDDP,Leipzig-Halle,2
+EFHK,Helsinki - Vantaa,3
+EDDW,Bremen,2
+EETN,Tallinn,1
+GCXO,Tenerife North,1
+LIRA,Rome - Ciampino,1
+LIML,Milan - Linate,1
+EVRA,Riga,1
+EKCH,Copenhagen - Kastrup,3
+EDDC,Dresden,1
+ESSA,Stockholm - Arlanda,3
+ENGM,Oslo - Gardermoen,2
+ENVA,Trondheim,1
+ENBR,Bergen,1
+ENZV,Stavanger,2
