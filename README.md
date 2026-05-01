@@ -10,6 +10,8 @@ The database is made up of four relational tables:
 - Geographical information of each airport were taken from kaggle: https://www.kaggle.com/datasets/samvelkoch/global-airports-iata-icao-timezone-geo
 - Regional and runway information are provided in the data folder.
 
+<img width="726" height="714" alt="Untitled" src="https://github.com/user-attachments/assets/88011e2f-49b9-42a0-b092-9446b716bfb8" />
+
 ## Results
 
 <img width="957" height="880" alt="2025 PRE-DEPARTURE DELAY ANALYSIS" src="https://github.com/user-attachments/assets/cd014eaa-348b-4215-b83c-0fdd93f95b15" />
